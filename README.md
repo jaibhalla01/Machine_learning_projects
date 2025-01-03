@@ -1,6 +1,6 @@
 # Machine_learning_projects
 A collection of projects in an attempt to improve my machine learning skills
-1. Building a Linear Regression model that can predict insurance rates based on health insurance features from Kaggle
+1. Building a Linear Regression model predicting insurance rates based on health insurance features from Kaggle
    a. Started by exploring the dataset and working out relationships between features
    b. Trained an ML model
    c. Evaluated and refined model
